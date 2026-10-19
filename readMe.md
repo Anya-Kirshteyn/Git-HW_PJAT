@@ -3,3 +3,7 @@ added readMe.md file on github.
 added new branch for id
 
 added student id: s38161
+
+
+link to uni documentation for better reference
+https://adfs.pjwstk.edu.pl/adfs/oauth2/authorize/?client_id=dfbccf57-9d86-4eac-aff7-1485aee6206e&redirect_uri=https%3A%2F%2Fgakko.pjwstk.edu.pl%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=639280287142137349.OTdmOWU3YjctYmMwMi00NTg3LTg2MGMtMTdhYTYzNDAwYzNmZWY2NjZjZGEtY2E5MC00NzgxLWFlMzgtM2FkZDE0YTRhNDI0&state=CfDJ8Ffl2lxawfxKioa4AN0DsdSzMsxyfDY-EnSzaeBop_IJH7nBNf9PDFoh5ogx4w0zR-MKp3wZ4oX9jpN7wmnwtp5WhgcCcBMbLs0SuAUgavy9I3-R8TM76PXWsS5um4cm8xrxkkpZS7ORnPbV6TUXYcKYJDQsw6XqpTlrH7BWi6FrDGkKiEz1b88l5BqmE3ey2CUBSHGuPn6BCKGB4Htyp2unnB4VGdjrGDvOOmnfyi4VH3LJ9XHb-e2h-hWZVZ3ugK4a5t8Kuv8loAnCgtoyI8TKu3jRH0_OeQaqTs-xXfmo&x-client-SKU=ID_NET10_0&x-client-ver=8.19.2.0
